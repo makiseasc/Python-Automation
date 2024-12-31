@@ -20,4 +20,4 @@ Automation scripts focusing on data processing and email marketing optimization.
 - Email APIs
 
 ## Contact
-[Portfolio] | [LinkedIn]
+[LinkedIn] | https://www.linkedin.com/in/marcusstellato/
